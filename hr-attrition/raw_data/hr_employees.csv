@@ -1,0 +1,263 @@
+employee_id,name,gender,age,department,education,monthly_salary,join_date,exit_date,satisfaction_score,attrited
+E0001,Naveen Raj,female,,HR,Bachelors,,2018-07-17,,1,No
+E0002,Karthik Iyer,Male,99,HR,MASTERS,-5000,08-31-2018,02-29-2020,1,Yes
+E0003,Suresh Sharma,Female,33,HR,PhD,-5000,08-14-2019,08-04-2021,5,Yes
+E0004,Meera Iyer,M,99,sales,bachelors,-5000,2024-04-30,,0,no
+E0005,Kavya Raj,Male,99,SALES,Bachelors,,2020-09-26,,3,NO
+E0006,Deepa Raj,M,15,Marketing,bachelors,112584,15/09/2019,,3,NO
+E0007,Manoj Kumar,F,99,sales,PhD,33519,10/01/2021,,3,No
+E0008,Manoj Sharma,female,99,SALES,Bachelors,62674,25/04/2019,13/11/2023,4,Yes
+E0009,Anitha Nair,female,99,HR,Masters,-5000,29/02/2024,,3,No
+E0010,  Karthik Raj,female,15,SALES,MASTERS,-5000,08-08-2020,,3,no
+E0011,Naveen Raj,female,99,Operations,,-5000,10/08/2018,,4,no
+E0012,Divya Raj,Male,28,sales,PhD,103738,05/05/2020,30/06/2022,5,Yes
+E0013,Arjun Kumar,female,99,Engineering,bachelors,-5000,2022-03-22,,1,no
+E0014,Latha Sharma,M,32,sales,PhD,,2019-08-14,,2,No
+E0015,Arjun Pillai,Female,15,Operations,MASTERS,,05-05-2021,,2,NO
+E0016,Naveen Reddy,Male,99,Engineering,PhD,54719,2020-03-10,,3,no
+E0017,Vijay Raj,female,45,operations,Masters,,11/11/2021,,2,no
+E0018,Ramesh Nair,Female,27,operations,bachelors,-5000,08/01/2018,,4,No
+E0019,Deepa Pillai,Male,,Marketing,Masters,-5000,12-22-2018,,2,NO
+E0020,  Manoj Pillai,F,,SALES,,-5000,04-27-2023,,1,No
+E0021,Suresh Nair,Female,15,Engineering,Bachelors,-5000,2020-05-14,,3,NO
+E0022,Sneha Nair,female,,operations,Masters,90752,18/10/2023,,5,NO
+E0023,Arjun Pillai,M,15,SALES,bachelors,-5000,2019-12-07,,,No
+E0024,Divya Raj,Male,57,Engineering,bachelors,,2021-02-08,,0,no
+E0025,Ramesh Reddy,Female,15,engineering,bachelors,-5000,01-27-2023,,5,No
+E0026,Deepa Kumar,Female,15,HR,,81143,16/12/2022,20/07/2024,0,Yes
+E0027,Sneha Raj,M,,engineering,bachelors,,17/07/2019,24/04/2020,2,Yes
+E0028,Naveen Nair,female,99,Engineering,PhD,,31/12/2021,18/04/2024,4,Yes
+E0029,Kavya Iyer,Female,15,sales,PhD,38733,2019-04-08,,1,No
+E0030,Deepa Pillai,F,15,engineering,Masters,-5000,2022-07-21,,1,no
+E0031,Karthik Sharma,M,99,Sales,bachelors,,29/12/2018,26/06/2020,1,Yes
+E0032,Vijay Iyer,male,38,SALES,,39346,06-26-2018,,2,no
+E0033,Ramesh Sharma,M,24,Finance,Masters,,08-11-2023,,1,Yes
+E0034,Latha Raj,Female,99,Finance,Masters,-5000,03-12-2019,,5,no
+E0035,Ramesh Pillai,Male,15,SALES,,42015,16/07/2022,,4,no
+E0036,Kavya Iyer,male,50,Engineering,MASTERS,,2021-04-15,,3,no
+E0037,Priya Kumar,Female,15,engineering,MASTERS,75020,11/06/2020,27/07/2022,5,Yes
+E0038,Arjun Kumar,Male,15,engineering,MASTERS,,2019-01-03,,3,NO
+E0039,Suresh Reddy,F,,operations,MASTERS,89774,15/05/2022,,1,NO
+E0040,  Deepa Reddy,F,36,Operations,PhD,99511,07-25-2019,,1,No
+E0041,  Ganesh Pillai,Male,99,Finance,,-5000,2024-04-06,,3,NO
+E0042,Karthik Reddy,Female,,Operations,,58055,09-28-2018,,,NO
+E0043,Manoj Nair,male,34,HR,,62659,11/11/2018,,5,NO
+E0044,Kavya Iyer,F,,operations,MASTERS,,2019-07-01,,,no
+E0045,Manoj Nair,female,99,Finance,PhD,86989,05-01-2019,01-21-2020,1,Yes
+E0046,Ganesh Raj,M,,Engineering,PhD,,11-02-2018,04-10-2023,5,Yes
+E0047,Meera Reddy,F,,Marketing,bachelors,,05/08/2020,,1,no
+E0048,Kavya Reddy,female,15,SALES,Bachelors,,01/09/2022,,0,No
+E0049,Arjun Reddy,Male,99,engineering,PhD,102224,03/11/2020,11/04/2023,0,Yes
+E0050,Meera Kumar,female,,engineering,Bachelors,-5000,2019-09-02,,0,NO
+E0051,  Ganesh Iyer,M,15,Operations,Masters,,04-13-2020,08-19-2024,4,Yes
+E0052,Anitha Nair,F,,HR,bachelors,,08/11/2021,,3,No
+E0053,Anitha Reddy,female,99,SALES,bachelors,-5000,2018-11-04,,3,No
+E0054,Ramesh Raj,Male,15,sales,,66849,17/12/2019,,0,no
+E0055,Ganesh Nair,M,15,Operations,,,10/05/2020,,2,No
+E0056,Karthik Sharma,female,,Engineering,MASTERS,,25/04/2022,,1,no
+E0057,Arjun Kumar,F,,HR,Bachelors,57566,03/12/2023,,2,NO
+E0058,Manoj Kumar,M,15,Operations,,-5000,2018-06-11,,2,no
+E0059,Meera Kumar,Male,,sales,MASTERS,,05-15-2021,,0,no
+E0060,Manoj Sharma,Male,99,Marketing,Bachelors,96696,19/09/2020,,,No
+E0061,Latha Reddy,F,99,HR,bachelors,,29/11/2018,,1,no
+E0062,Ganesh Raj,Female,,Sales,Masters,33838,04-11-2021,,3,no
+E0063,  Priya Sharma,M,99,engineering,Masters,49551,03-23-2019,,,no
+E0064,Divya Raj,Male,15,Sales,Masters,,05/08/2019,05/03/2020,,Yes
+E0065,Naveen Raj,Male,15,SALES,Bachelors,-5000,11-20-2023,,3,No
+E0066,Vijay Kumar,Male,15,Marketing,Bachelors,,2022-09-18,,0,NO
+E0067,Latha Raj,female,,Marketing,Bachelors,87198,28/01/2024,,0,Yes
+E0068,Ganesh Kumar,M,15,Finance,Bachelors,-5000,2018-09-14,,3,no
+E0069,Naveen Sharma,female,,engineering,bachelors,108097,01-16-2018,,1,no
+E0070,Deepa Pillai,female,,Finance,PhD,-5000,28/06/2019,26/03/2024,3,Yes
+E0071,Karthik Iyer,Female,99,Engineering,bachelors,-5000,2022-05-24,,5,No
+E0072,Karthik Sharma,M,,operations,,,2018-12-11,2021-12-25,2,Yes
+E0073,Priya Reddy,female,15,Operations,Masters,,12/05/2019,,,No
+E0074,Priya Raj,F,,SALES,bachelors,,02-26-2021,10-06-2021,,Yes
+E0075,  Divya Kumar,M,,Sales,MASTERS,74004,2023-04-29,,1,No
+E0076,  Karthik Sharma,male,15,Operations,Masters,112130,30/12/2019,,2,No
+E0077,Ramesh Sharma,Female,,Sales,Bachelors,-5000,2020-04-13,,5,no
+E0078,Latha Kumar,F,56,HR,PhD,-5000,20/02/2019,,,no
+E0079,Kavya Reddy,male,99,engineering,,,2022-09-08,,1,No
+E0080,Ganesh Reddy,male,29,HR,bachelors,,2020-04-14,,4,No
+E0081,Suresh Kumar,Female,15,Sales,PhD,76998,2024-03-09,,,no
+E0082,Anitha Iyer,M,30,SALES,,,2018-10-02,,4,no
+E0083,Karthik Reddy,M,,operations,Masters,-5000,10-19-2019,,0,No
+E0084,Ganesh Iyer,Male,57,SALES,bachelors,50243,21/04/2022,07/12/2023,,Yes
+E0085,Manoj Iyer,Male,99,engineering,Bachelors,,17/09/2022,,5,NO
+E0086,  Latha Nair,male,99,Engineering,bachelors,85068,01-05-2023,,1,no
+E0087,Karthik Pillai,F,30,Finance,MASTERS,-5000,08-28-2023,,,No
+E0088,Divya Pillai,female,26,Operations,PhD,42850,03-28-2022,,2,No
+E0089,Priya Kumar,female,,Marketing,Masters,,2020-10-30,,3,NO
+E0090,Vijay Iyer,F,,Operations,PhD,51075,30/08/2020,,,no
+E0091,Anitha Pillai,F,55,engineering,bachelors,-5000,04-17-2019,07-21-2021,3,Yes
+E0092,Sneha Sharma,Male,,HR,PhD,,02-20-2022,03-28-2024,5,Yes
+E0093,Vijay Sharma,Male,99,operations,Masters,54050,07-04-2021,12-10-2021,4,Yes
+E0094,Latha Raj,M,15,operations,PhD,,2018-07-06,2021-12-08,5,Yes
+E0095,  Suresh Raj,Female,99,Marketing,,-5000,2023-04-30,,1,Yes
+E0096,Vijay Nair,Male,99,engineering,Bachelors,,2018-02-17,,2,No
+E0097,Arjun Nair,M,,SALES,MASTERS,38751,2020-08-31,2025-04-12,2,Yes
+E0098,Deepa Pillai,female,99,operations,bachelors,-5000,12-17-2019,,,NO
+E0099,Manoj Kumar,F,24,Finance,PhD,59265,2019-12-20,,3,NO
+E0100,Divya Sharma,Male,,Operations,Masters,,11-22-2022,,1,no
+E0101,Priya Pillai,F,,Engineering,,,10-15-2019,,4,NO
+E0102,Latha Nair,M,15,Operations,MASTERS,119977,2018-01-27,,0,No
+E0103,Anitha Raj,F,23,Sales,,70201,2018-04-21,2019-06-16,1,Yes
+E0104,Divya Reddy,F,56,sales,bachelors,72632,2018-07-11,,0,No
+E0105,Priya Raj,F,99,Engineering,Masters,108122,2019-04-04,2024-01-21,1,Yes
+E0106,Kavya Sharma,M,15,Marketing,bachelors,62040,02/10/2022,08/06/2024,0,Yes
+E0107,Kavya Iyer,F,52,Sales,Bachelors,,2022-08-19,,5,NO
+E0108,Kavya Raj,Female,99,HR,bachelors,32073,01-06-2018,07-14-2022,1,Yes
+E0109,Sneha Pillai,F,99,Operations,Bachelors,62189,12-03-2020,,2,no
+E0110,  Meera Reddy,Female,99,Marketing,PhD,-5000,2021-12-27,,,no
+E0111,Deepa Iyer,F,,Operations,MASTERS,107672,02/12/2019,,5,NO
+E0112,Divya Sharma,male,,operations,MASTERS,-5000,08-31-2021,06-08-2024,4,Yes
+E0113,Priya Raj,M,15,Marketing,Masters,-5000,03-08-2023,,3,NO
+E0114,Suresh Raj,female,,Marketing,Masters,,09/11/2023,,,Yes
+E0115,Suresh Pillai,female,15,engineering,Bachelors,-5000,03/05/2021,,2,No
+E0116,Ganesh Pillai,female,,HR,Bachelors,,06-30-2020,,3,NO
+E0117,Priya Pillai,female,,HR,PhD,80201,06-09-2024,,,no
+E0118,  Meera Nair,female,99,Engineering,MASTERS,,06-27-2022,,4,NO
+E0119,Anitha Reddy,Female,,Marketing,MASTERS,38943,13/02/2018,,2,no
+E0120,Meera Pillai,female,15,operations,Masters,92133,02-14-2023,,4,Yes
+E0121,Anitha Nair,Male,15,Operations,Bachelors,-5000,05-17-2019,,3,No
+E0122,Deepa Nair,Female,99,Marketing,Bachelors,-5000,04/07/2024,,4,Yes
+E0123,Ramesh Nair,Female,15,Operations,bachelors,,2020-07-14,,0,no
+E0124,Priya Sharma,male,15,HR,bachelors,88120,04/11/2020,,2,no
+E0125,Deepa Iyer,M,15,sales,PhD,75477,2022-01-24,,0,NO
+E0126,Arjun Reddy,female,,Sales,PhD,-5000,2020-05-09,,0,No
+E0127,Ramesh Nair,Female,15,Operations,MASTERS,104739,11-19-2019,,2,No
+E0128,  Manoj Reddy,female,99,sales,Masters,55693,2024-03-23,,5,NO
+E0129,Latha Raj,F,99,Finance,PhD,25865,11-06-2019,,,no
+E0130,  Sneha Nair,F,23,HR,PhD,-5000,2018-11-05,,5,No
+E0131,Latha Nair,male,43,SALES,bachelors,106956,2018-05-19,,0,NO
+E0132,Ramesh Sharma,male,15,HR,MASTERS,,01/11/2021,,0,no
+E0133,Sneha Raj,female,27,Finance,MASTERS,64219,29/04/2019,27/07/2023,4,Yes
+E0134,Divya Nair,F,99,engineering,,-5000,2019-03-21,2024-01-27,5,Yes
+E0135,Karthik Raj,F,33,Sales,Bachelors,-5000,02-19-2023,,4,no
+E0136,  Suresh Pillai,M,48,engineering,,64589,04-21-2024,,3,NO
+E0137,  Divya Nair,female,99,operations,MASTERS,-5000,2023-11-09,,1,NO
+E0138,  Suresh Nair,F,99,HR,Bachelors,52823,2024-02-26,,1,Yes
+E0139,Karthik Raj,F,,sales,,99578,13/06/2019,23/09/2023,1,Yes
+E0140,  Suresh Reddy,Male,38,sales,Bachelors,,04-15-2021,,,NO
+E0141,Karthik Nair,F,15,engineering,bachelors,-5000,07-03-2021,,3,no
+E0142,Anitha Raj,M,99,sales,PhD,,01-27-2022,,3,Yes
+E0143,Kavya Sharma,F,99,Sales,bachelors,27031,09-22-2021,,2,NO
+E0144,Priya Pillai,M,32,Finance,Masters,,03-06-2021,11-24-2022,3,Yes
+E0145,Vijay Pillai,F,99,Operations,Masters,-5000,10/08/2023,,2,no
+E0146,Divya Reddy,male,99,HR,Bachelors,101859,03-21-2023,11-21-2024,5,Yes
+E0147,Priya Nair,Male,,operations,Masters,,05/11/2023,,2,NO
+E0148,Kavya Sharma,Male,37,operations,PhD,92792,30/04/2024,,4,NO
+E0149,  Manoj Pillai,M,55,sales,bachelors,,02/10/2019,,1,NO
+E0150,  Ramesh Sharma,Female,15,engineering,Masters,-5000,2022-10-11,,0,no
+E0151,Karthik Kumar,female,53,Sales,Bachelors,,05-23-2018,,0,NO
+E0152,Karthik Sharma,male,,Marketing,Masters,-5000,2024-05-01,,4,NO
+E0153,Priya Raj,male,99,Sales,Bachelors,28641,14/11/2020,20/03/2024,1,Yes
+E0154,Ramesh Reddy,Female,46,engineering,bachelors,,12-13-2022,01-04-2025,3,Yes
+E0155,Priya Pillai,male,,SALES,,50572,21/02/2018,,1,No
+E0156,Manoj Kumar,male,52,HR,Masters,67279,03-31-2018,05-24-2020,,Yes
+E0157,Divya Raj,male,99,Finance,MASTERS,,2024-03-16,,2,no
+E0158,Naveen Pillai,F,31,SALES,Masters,88233,03/12/2020,23/09/2023,,Yes
+E0159,Latha Pillai,male,,engineering,bachelors,,04/05/2019,,2,No
+E0160,  Divya Pillai,M,,engineering,PhD,,08-15-2019,05-22-2024,4,Yes
+E0161,Anitha Sharma,M,,HR,Bachelors,48682,16/06/2018,27/11/2021,,Yes
+E0162,  Karthik Iyer,F,15,Finance,,-5000,2021-01-26,2024-10-01,2,Yes
+E0163,Deepa Pillai,female,27,Sales,Masters,,25/10/2023,,4,NO
+E0164,Vijay Raj,M,15,SALES,Bachelors,-5000,25/04/2024,,5,Yes
+E0165,Meera Sharma,M,40,Engineering,Bachelors,100538,08-07-2021,,,NO
+E0166,Suresh Kumar,Male,15,Engineering,Bachelors,47004,2018-12-29,,5,No
+E0167,Ramesh Sharma,Female,15,Sales,Bachelors,,19/06/2024,,0,no
+E0168,Meera Nair,Female,99,Finance,Masters,39423,07-27-2024,,2,No
+E0169,Manoj Reddy,Male,48,HR,PhD,-5000,2019-11-05,,4,no
+E0170,Ganesh Raj,F,57,Marketing,PhD,,11-20-2022,,3,No
+E0171,Deepa Reddy,Female,,Sales,Masters,,2022-02-01,,5,no
+E0172,Ganesh Pillai,Male,39,Finance,MASTERS,,2018-07-11,2022-05-14,5,Yes
+E0173,Arjun Nair,M,29,Engineering,PhD,109871,11/06/2018,20/08/2020,5,Yes
+E0174,Karthik Nair,Female,99,operations,,92060,2023-12-27,,5,No
+E0175,Kavya Pillai,female,99,Finance,bachelors,-5000,2024-05-24,,5,no
+E0176,Arjun Raj,Female,47,Marketing,PhD,-5000,2020-06-26,,3,NO
+E0177,Naveen Nair,female,57,engineering,,27855,2021-03-12,,5,No
+E0178,Ganesh Pillai,Female,99,Finance,,93279,12-21-2021,,3,No
+E0179,Vijay Pillai,female,99,Operations,MASTERS,,01-25-2019,,0,NO
+E0180,Meera Nair,female,99,HR,PhD,-5000,2024-05-31,,0,NO
+E0181,Sneha Sharma,female,42,Marketing,bachelors,-5000,05-20-2022,,0,no
+E0182,Kavya Raj,male,36,Operations,MASTERS,-5000,2021-05-30,,0,No
+E0183,Naveen Raj,female,15,HR,MASTERS,,2018-02-13,2021-07-13,5,Yes
+E0184,Deepa Nair,female,22,Finance,PhD,,2022-01-05,,5,NO
+E0185,Ganesh Reddy,M,99,Operations,PhD,,2024-06-09,,0,NO
+E0186,Karthik Raj,F,33,Marketing,PhD,-5000,26/07/2021,,,NO
+E0187,  Deepa Reddy,M,99,SALES,MASTERS,-5000,17/11/2023,,2,No
+E0188,Sneha Iyer,Male,57,Sales,MASTERS,-5000,2022-08-13,,3,No
+E0189,Arjun Raj,M,,SALES,Bachelors,-5000,08-02-2023,,5,No
+E0190,Anitha Iyer,F,99,Operations,Bachelors,,2019-03-13,2020-05-25,0,Yes
+E0191,Naveen Raj,female,15,Engineering,Bachelors,107404,20/12/2021,17/09/2023,2,Yes
+E0192,Divya Raj,M,,HR,Masters,106287,2024-07-14,,1,no
+E0193,Arjun Pillai,Female,99,Finance,bachelors,89952,28/05/2021,,,no
+E0194,Ganesh Reddy,male,33,Finance,Bachelors,,2018-04-02,2019-06-14,3,Yes
+E0195,Naveen Iyer,male,,HR,PhD,,07/10/2021,,4,No
+E0196,Deepa Kumar,Female,30,engineering,MASTERS,-5000,14/04/2018,,2,no
+E0197,Manoj Pillai,M,,Engineering,Masters,,15/10/2019,,3,No
+E0198,Manoj Reddy,Female,,SALES,Masters,,12-04-2020,,4,No
+E0199,Karthik Iyer,F,41,engineering,Masters,99407,2022-04-26,,4,No
+E0200,Naveen Raj,Female,34,sales,PhD,,10-06-2018,,,No
+E0201,Ganesh Sharma,F,,Marketing,,107394,11/07/2022,,1,no
+E0202,Deepa Kumar,M,15,Finance,,107421,14/10/2020,,1,No
+E0203,Divya Nair,Female,15,Sales,MASTERS,,26/10/2019,05/10/2021,,Yes
+E0204,Priya Iyer,F,15,Finance,PhD,-5000,04/11/2023,,1,No
+E0205,Divya Raj,male,,sales,bachelors,,02/06/2018,07/08/2020,3,Yes
+E0206,Manoj Sharma,Male,,Operations,,,01-29-2023,,4,Yes
+E0207,Vijay Raj,Male,,Operations,Masters,59115,11-02-2019,,3,NO
+E0208,Kavya Raj,male,99,SALES,,117487,06-16-2023,,2,no
+E0209,Suresh Reddy,M,,SALES,bachelors,-5000,2024-04-26,,,no
+E0210,Ramesh Kumar,male,15,engineering,bachelors,30688,20/02/2018,,2,No
+E0211,Anitha Sharma,female,26,Finance,Bachelors,-5000,04-04-2023,,1,NO
+E0212,Naveen Reddy,Male,15,operations,,,2020-12-19,,1,no
+E0213,Vijay Reddy,F,15,Engineering,MASTERS,,2018-11-17,,3,NO
+E0214,Anitha Kumar,male,15,engineering,PhD,,31/08/2021,,2,Yes
+E0215,Priya Kumar,F,,Sales,Masters,,03-16-2019,,4,no
+E0216,Karthik Raj,F,99,Engineering,PhD,77610,2019-11-02,,4,No
+E0217,  Divya Pillai,Male,99,operations,,111720,26/09/2023,20/05/2024,3,Yes
+E0218,Anitha Reddy,male,,SALES,MASTERS,-5000,01/04/2022,,4,Yes
+E0219,Manoj Nair,M,15,Operations,MASTERS,106247,25/09/2019,,5,no
+E0220,Sneha Nair,F,,SALES,Bachelors,108066,10/05/2021,,,No
+E0221,Sneha Iyer,Female,15,operations,MASTERS,,02/09/2022,,1,NO
+E0222,Meera Raj,M,,engineering,MASTERS,-5000,2019-01-24,,5,NO
+E0223,Meera Reddy,M,,Operations,,114062,2024-05-10,,0,No
+E0224,Meera Nair,M,52,HR,Bachelors,-5000,2024-02-08,,2,no
+E0225,Priya Kumar,Male,41,Marketing,MASTERS,,2018-06-20,,,No
+E0226,Meera Reddy,M,15,Marketing,,-5000,20/11/2019,,1,NO
+E0227,Sneha Reddy,F,42,Finance,Masters,-5000,06-28-2018,,1,no
+E0228,Sneha Raj,Female,29,Finance,MASTERS,,03-29-2018,,0,no
+E0229,Ganesh Pillai,female,22,SALES,MASTERS,,10-22-2020,,3,no
+E0230,Divya Pillai,female,99,Sales,bachelors,-5000,2018-11-02,,2,No
+E0231,Karthik Sharma,F,,Marketing,bachelors,-5000,2023-12-04,,2,no
+E0232,Manoj Nair,M,36,Marketing,Bachelors,,2021-07-11,,2,NO
+E0233,  Suresh Reddy,M,,SALES,Bachelors,,21/01/2021,,,No
+E0234,Deepa Reddy,male,15,operations,MASTERS,56200,10/02/2019,,0,NO
+E0235,Priya Sharma,male,15,Operations,Masters,,21/07/2022,08/09/2024,2,Yes
+E0236,Suresh Raj,male,32,Sales,PhD,,31/01/2023,,2,NO
+E0237,Naveen Kumar,F,99,Engineering,bachelors,-5000,2024-07-17,,3,NO
+E0238,Karthik Pillai,F,,Finance,Bachelors,-5000,2021-07-31,,,No
+E0239,Divya Nair,Female,,Finance,MASTERS,-5000,03-31-2020,,2,No
+E0240,Karthik Kumar,male,15,operations,,-5000,10-29-2021,02-16-2023,1,Yes
+E0241,  Arjun Reddy,F,99,Finance,MASTERS,69272,07-19-2022,,0,no
+E0242,Latha Iyer,F,15,HR,,,18/11/2020,,1,no
+E0243,Anitha Kumar,M,99,Sales,MASTERS,,2019-10-02,2024-04-19,3,Yes
+E0244,Suresh Reddy,F,52,operations,MASTERS,,13/06/2024,,0,NO
+E0245,Manoj Iyer,F,38,engineering,PhD,60904,01-20-2022,,5,No
+E0246,Priya Nair,male,,sales,,-5000,04-25-2018,11-24-2018,3,Yes
+E0247,Suresh Raj,male,99,SALES,bachelors,118012,2023-12-05,,2,no
+E0248,Ramesh Sharma,female,15,Sales,bachelors,-5000,03-18-2019,,1,no
+E0249,Priya Kumar,F,,engineering,PhD,56697,27/03/2018,,3,no
+E0250,Latha Raj,female,15,operations,Masters,60032,04/10/2019,,1,No
+E0082,Anitha Iyer,M,30,SALES,,,2018-10-02,,4,no
+E0175,Kavya Pillai,female,99,Finance,bachelors,-5000,2024-05-24,,5,no
+E0157,Divya Raj,male,99,Finance,MASTERS,,2024-03-16,,2,no
+E0153,Priya Raj,male,99,Sales,Bachelors,28641,14/11/2020,20/03/2024,1,Yes
+E0245,Manoj Iyer,F,38,engineering,PhD,60904,01-20-2022,,5,No
+E0116,Ganesh Pillai,female,,HR,Bachelors,,06-30-2020,,3,NO
+E0109,Sneha Pillai,F,99,Operations,Bachelors,62189,12-03-2020,,2,no
+E0027,Sneha Raj,M,,engineering,bachelors,,17/07/2019,24/04/2020,2,Yes
+E0108,Kavya Raj,Female,99,HR,bachelors,32073,01-06-2018,07-14-2022,1,Yes
+E0185,Ganesh Reddy,M,99,Operations,PhD,,2024-06-09,,0,NO
+E0024,Divya Raj,Male,57,Engineering,bachelors,,2021-02-08,,0,no
+E0225,Priya Kumar,Male,41,Marketing,MASTERS,,2018-06-20,,,No
